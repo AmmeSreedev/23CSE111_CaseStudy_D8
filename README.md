@@ -1,7 +1,7 @@
 # 23CSE111_CaseStudy_D8
-1. Problem Title : Student Complaint Management System (ResolveIt)
+## 1. Problem Title : Student Complaint Management System (ResolveIt)
 
-2.Team Members: 
+##<u> 2.Team Members: <u>
 
 AM.SC.U4CSE25348 Shilajeet Mukherjee 
 
